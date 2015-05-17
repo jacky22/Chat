@@ -1,0 +1,8 @@
+C:\Users\i.vasilyev\Downloads\ChatApplication\ChatApplication\ChatServer\obj\Debug\ChatServer.ChatServer.resources
+C:\Users\i.vasilyev\Downloads\ChatApplication\ChatApplication\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+C:\Users\i.vasilyev\Downloads\ChatApplication\ChatApplication\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.Cache
+C:\Users\i.vasilyev\Downloads\ChatApplication\ChatApplication\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\i.vasilyev\Downloads\ChatApplication\ChatApplication\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\i.vasilyev\Downloads\ChatApplication\ChatApplication\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\i.vasilyev\Downloads\ChatApplication\ChatApplication\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\i.vasilyev\Downloads\ChatApplication\ChatApplication\ChatServer\bin\Debug\ChatServer.pdb
